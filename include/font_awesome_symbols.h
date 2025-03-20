@@ -73,5 +73,6 @@
 #define FONT_AWESOME_USER "\xef\x80\x87"
 #define FONT_AWESOME_USER_ROBOT "\xee\x81\x8b"
 #define FONT_AWESOME_DOWNLOAD "\xef\x80\x99"
+#define FONT_AWESOME_CAT "\xef\x9a\xbe" //新增 uf6be
 
 #endif
